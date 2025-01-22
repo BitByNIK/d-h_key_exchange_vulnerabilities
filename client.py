@@ -36,7 +36,7 @@ def main():
                 private_key_server += 1
 
     except Exception as e:
-        print(f"Failed to connect to server: {e}")
+        print(f"Error: {e}")
 
 
 if __name__ == "__main__":
