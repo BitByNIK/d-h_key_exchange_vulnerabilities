@@ -1,7 +1,7 @@
 import random
 import socket
 
-SERVER_IP = "10.194.40.15"
+SERVER_IP = "10.208.66.147"
 SERVER_PORT = 5555
 
 ENTRY_NUMBER = "2024JCS2611"
