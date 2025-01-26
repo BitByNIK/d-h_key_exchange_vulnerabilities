@@ -1,7 +1,7 @@
 import random
 import socket
 
-MITM_IP = input("Enter your MITM's IP address:")
+MITM_IP = input("Enter your MITM's IP address: ")
 SERVER_IP = '10.208.66.147'
 SERVER_PORT = 5555
 
